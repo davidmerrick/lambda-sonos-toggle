@@ -18,5 +18,16 @@
   "homepage": "https://github.com/davidmerrick/lambda-sonos-toggle#readme",
   "dependencies": {
     "axios": "^0.16.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.24.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-install": "^1.1.0",
+    "gulp-zip": "^4.0.0",
+    "node-aws-lambda": "^0.1.8",
+    "run-sequence": "^1.2.2"
   }
 }

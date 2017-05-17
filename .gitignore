@@ -1,3 +1,5 @@
-node_modules
 .idea
-.zip
+*.zip
+node_modules
+dist
+conf

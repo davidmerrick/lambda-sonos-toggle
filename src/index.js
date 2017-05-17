@@ -1,6 +1,6 @@
 'use strict';
 
-const axios = require('axios');
+import axios from 'axios'
 
 exports.handler = (event, context, callback) => {
     console.log('Received event:', event.clickType);
