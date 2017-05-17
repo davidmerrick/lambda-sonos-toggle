@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/davidmerrick/lambda-sonos-toggle.svg?branch=master)](https://travis-ci.org/davidmerrick/lambda-sonos-toggle)
+
 Lambda function which toggles the play/pause state of a Sonos system.
 
 For instructions, see: https://www.david-merrick.com/2017/05/16/using-an-aws-iot-button-to-control-sonos-speakers/
