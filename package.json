@@ -1,0 +1,22 @@
+{
+  "name": "lambda-sonos-toggle",
+  "version": "1.0.0",
+  "description": "Lambda function which toggles the play/pause state of a Sonos system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmerrick/lambda-sonos-toggle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidmerrick/lambda-sonos-toggle/issues"
+  },
+  "homepage": "https://github.com/davidmerrick/lambda-sonos-toggle#readme",
+  "dependencies": {
+    "axios": "^0.16.1"
+  }
+}
